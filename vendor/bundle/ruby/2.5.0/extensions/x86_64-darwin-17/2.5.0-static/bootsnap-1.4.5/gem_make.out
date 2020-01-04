@@ -1,0 +1,15 @@
+current directory: /Users/kanoposo/Documents/IT/Ruby/JinseiGyakuten/Lv24/devise_sample/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/kanoposo/.rbenv/versions/2.5.1/bin/ruby -I /Users/kanoposo/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200101-44412-hv01qh.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kanoposo/Documents/IT/Ruby/JinseiGyakuten/Lv24/devise_sample/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/kanoposo/Documents/IT/Ruby/JinseiGyakuten/Lv24/devise_sample/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/kanoposo/Documents/IT/Ruby/JinseiGyakuten/Lv24/devise_sample/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200101-44412-ttift7/bootsnap

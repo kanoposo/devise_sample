@@ -1,0 +1,19 @@
+current directory: /Users/kanoposo/Documents/IT/Ruby/JinseiGyakuten/Lv24/devise_sample/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+/Users/kanoposo/.rbenv/versions/2.5.1/bin/ruby -I /Users/kanoposo/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20200101-44412-vxrv0l.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kanoposo/Documents/IT/Ruby/JinseiGyakuten/Lv24/devise_sample/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/kanoposo/Documents/IT/Ruby/JinseiGyakuten/Lv24/devise_sample/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/kanoposo/Documents/IT/Ruby/JinseiGyakuten/Lv24/devise_sample/vendor/bundle/ruby/2.5.0/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200101-44412-1cufun8/byebug
